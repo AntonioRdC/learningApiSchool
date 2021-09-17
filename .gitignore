@@ -2,3 +2,4 @@ node_modules
 .eslintrc.js
 nodemon.json
 .editorconfig
+.env
