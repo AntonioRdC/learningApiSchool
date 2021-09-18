@@ -9,7 +9,5 @@ module.exports = {
   database: process.env.DATABASE,
   define: {
     timestamps: true,
-    uderscored: true,
-    uderscoredAll: true,
   },
 }
